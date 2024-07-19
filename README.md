@@ -12,7 +12,7 @@ I love solving problems by building scalable web applications. Here's a bit more
 
 Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SWE_.pdf).
 
-### Tech Stack:
+# Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,7 +54,7 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 
 ---
 
-### GitHub Stats
+# GitHub Stats
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat235&theme=dark&hide_border=false)

@@ -59,7 +59,7 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 
 # GitHub Stats
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat235&theme=dark&hide_border=false)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat235&layout=compact&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=akshat235&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)

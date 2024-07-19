@@ -10,7 +10,7 @@ I love solving problems by building scalable web applications. Here's a bit more
 
 ### My Resume
 
-Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SWE_.pdf).
+Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf).
 
 # Tech Stack:
 

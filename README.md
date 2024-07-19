@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=akshat235&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 I'm Akshat Gupta, a passionate Software Engineer currently pursuing my Masters in Computer Engineering at San Jose State University. 
 I love solving problems by building scalable web applications. Here's a bit more about me:
@@ -57,6 +58,5 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat235&theme=dark&hide_border=false)
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat235&layout=compact&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=akshat235&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshat235&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)
 

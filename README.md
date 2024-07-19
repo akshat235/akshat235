@@ -9,14 +9,12 @@ I love solving problems by building scalable web applications. Here's a bit more
 - 📫 How to reach me: akshat.gupta@sjsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/akshatgupta0302/).
 
 ### My Resume
-
 Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf).
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatgupta0302/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@writetoxyte)
 
 # Tech Stack:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)

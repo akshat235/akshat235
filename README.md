@@ -12,10 +12,8 @@ I love solving problems by building scalable web applications. Here's a bit more
 
 Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf).
 
-
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatgupta0302/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatgupta0302/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@writetoxyte)
 
 # Tech Stack:
 

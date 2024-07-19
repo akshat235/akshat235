@@ -29,16 +29,11 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Radix-UI](https://img.shields.io/badge/Radix--UI-111111?style=for-the-badge&logo=radix&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=for-the-badge&logo=rest&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Preact](https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS-EE4C2C?style=for-the-badge&logo=saas&logoColor=white)
 
 #### Databases & Cloud
@@ -56,10 +51,8 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 #### Tools & Frameworks
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![PyMongo](https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoEngine](https://img.shields.io/badge/MongoEngine-800080?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -70,5 +63,6 @@ Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/m
 
 ### GitHub Stats
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=radical)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=radical
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat235&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat235&layout=compact&theme=radical)

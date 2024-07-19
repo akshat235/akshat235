@@ -9,7 +9,7 @@ I love solving problems by building scalable web applications. Here's a bit more
 - 👯 I’m open to collaborate on open-source projects and innovative tech solutions.
 - 📫 How to reach me: akshat.gupta@sjsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/akshatgupta0302/).
 
-### My Resume
+### My [Resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf)
 Feel free to check out my [resume](https://github.com/akshat235/akshat235/blob/main/Akshat_Gupta_SDE.pdf).
 
 ### Socials:

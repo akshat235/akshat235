@@ -60,5 +60,6 @@ I love solving problems by building scalable web applications. Here's a bit more
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat235&theme=dark&hide_border=false)
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat235&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat235&layout=compact&theme=radical)
+<!--
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshat235&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)
-
+-->

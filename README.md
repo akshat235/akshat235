@@ -2,7 +2,7 @@
 
 
 I'm Akshat Gupta, a passionate Software Engineer currently pursuing my Masters in Computer Engineering at San Jose State University. 
-I love solving problems by building scalable web applications. Here's a bit more about me:
+I love solving problems by building scalable web applications. Here's a bit more about me::
 
 - 🔭 I’m currently working on a [full-stack web application](https://ohana-filter-updates-2kgeqlwehq-uw.a.run.app/) for the AANHI community at SJSU Research Foundation.
 - 🌱 I’m currently learning advanced topics in scalable systems and software development.
